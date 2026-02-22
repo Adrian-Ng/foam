@@ -1,5 +1,6 @@
 site_name: Foam PKM
 site_url: https://Adrian-Ng.github.io/foam/
+docs_dir: .
 theme:
   name: material
 nav:
