@@ -1,0 +1,26 @@
+site_name: Foam PKM
+site_url: https://Adrian-Ng.github.io/foam/
+theme:
+  name: material
+nav:
+  - Home: README.md
+  - Zettels:
+      - Friendship Tiers: zettles/zk-20260222-friendship-tiers.md
+      - Situational Friendship: zettles/zk-20260222-situational-friendship.md
+      - Humane Engineering: zettles/zk-20260222-humane-engineering.md
+      - Training and Enablement: zettles/zk-20260222-training-and-enablement.md
+      - dbt Core Workflows: zettles/zk-20260222-dbt-core-workflows.md
+      - DataOps Principles: zettles/zk-20260222-data-ops-principles.md
+      - Snowflake Platform Engineering: zettles/zk-20260222-snowflake-platform-engineering.md
+      - Terraform Infrastructure: zettles/zk-20260222-terraform-infrastructure.md
+  - Projects:
+      - Debt Strategy 2026–2027: projects/debt-strategy-2026-2027.md
+      - My Flat: projects/my-flat.md
+  - Relationships:
+      - Tali: relationships/people/tali.md
+      - Smoovie: relationships/people/smoovie.md
+      - Ludo: relationships/people/ludo.md
+      - Jade Shelly: relationships/people/jade-shelly.md
+      - Adrian: relationships/people/adrian.md
+      - Emma: relationships/people/emma.md
+      - Squishy: relationships/people/squishy.md
